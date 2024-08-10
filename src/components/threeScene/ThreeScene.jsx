@@ -49,7 +49,7 @@ const ThreeScene = () => {
       saturn: '/textures/2k_saturn.jpg',
       uranus: '/textures/2k_uranus.jpg',
       neptune: '/textures/2k_neptune.jpg',
-      sun: '/textures/8k_sun.jpg',
+      sun: '/textures/2k_sun.jpg',
       stars: '/textures/8k_stars.jpg',
     };
 
