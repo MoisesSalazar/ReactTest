@@ -1,10 +1,28 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta plantilla proporciona una configuración mínima para hacer que React funcione en Vite con HMR y algunas reglas de ESLint.
 
-Currently, two official plugins are available:
+Actualmente, hay dos plugins oficiales disponibles:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# ReactTest
-# ReactTest
+## Pasos para correr el repositorio
+
+1. Clona el repositorio:
+```
+https://github.com/MoisesSalazar/ReactTest.git
+```
+2. Navega al directorio del proyecto
+```
+cd ReactTest
+```
+
+3. Instala las dependencias:
+```
+npm install
+```
+
+4. Inicia el servidor de desarrollo:
+```
+npm run dev
+```
+
+5. Abre tu navegador y navega a http://localhost:3000 para ver la aplicación en funcionamiento.
