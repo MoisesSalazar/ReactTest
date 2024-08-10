@@ -26,3 +26,6 @@ npm run dev
 ```
 
 5. Abre tu navegador y navega a http://localhost:3000 para ver la aplicación en funcionamiento.
+
+##Ejemplo
+![Ejemplo](/public/example.png)
